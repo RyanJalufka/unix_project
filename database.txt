@@ -8,3 +8,7 @@ Hey,:what:a:record
 the:cat:is:small
 the:cat:is:brown
 the:cat:is:fat
+Samuel Teich: This is my Address: This is my Email: This is my Phone
+Sam:Addr:Email:Phone
+James:Enterprise:jamestkirk@enterprise.com:1257111317192129
+a:b:c:d
